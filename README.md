@@ -1,8 +1,10 @@
 # 849-Hours-Mandarin-Interactive-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/981
+
 
 ## Description
 Mandarin home interaction mobile phone language audio data (Far-field home collected audio data subset), with duration of 849 hours, recorded in the real home scene; content focuses on home instructions, functional assistants and wake-up words, specially designed for smart home, more close to data application scenes.
+
+For more details, please refer to the link: https://bit.ly/3xN1aWr
 
 ## Format
 48kHz, 16bit, uncompressed wav, mono channel
@@ -27,3 +29,6 @@ Mandarin
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
